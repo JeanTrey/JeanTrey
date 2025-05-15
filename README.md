@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👤 Jean Marco Nascimento da Rocha
 
-<!--
-**JeanTrey/JeanTrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Tecnologia só pra ficar top.](OSFi.gif "Tecnologia.")
+##
 
-Here are some ideas to get you started:
+### 🎓 Cursando Técnico em Informática
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### - Local - Senac São Miguel Paulista 🌎
+#### - Duração  - 3 Semestres 🕐
+##
+### 🧾 Conhecimentos adquiridos : 
+* Montagem e manutenção de computadores
+* Redes e Infraestrutura
+* Montagem e configuração de servidor
+* Desenvolvimento Web
+
+##
+
+### 👤 Sobre mim 
+
+#### Atualmente empregado como **Operador de Monitoramento** na empresa Allibus Transportes. ♟
+#### - Empregado desde 11/2022 🕐
+#### - Localizado em Vila Matilde - Zona Leste de São Paulo 🌎
+
+##
+
+### 🕵️‍♀️ Hobby's 
+* Academia 🏋🏼‍♂️
+* Desenho 🖋
+* Ler 📖
+* Jogos 🎮
+
+
+  
+
+
