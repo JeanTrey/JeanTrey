@@ -1,6 +1,7 @@
 ## 👤 Jean Marco Nascimento da Rocha
 
 ![Tecnologia só pra ficar top.](OSFi.gif "Tecnologia.")
+<img src="OSFi.gif" width="150">
 ##
 
 ### 🎓 Cursando Técnico em Informática
@@ -30,6 +31,7 @@
 * Ler 📖
 * Jogos 🎮
 
+![Tecnologia só pra ficar top.](UAI.gif "Tecnologia.")
 
   
 
