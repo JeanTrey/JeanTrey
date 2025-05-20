@@ -31,7 +31,6 @@
 * Ler 📖
 * Jogos 🎮
 
-![Tecnologia só pra ficar top.](UAI.gif "Tecnologia.")
 
   
 
