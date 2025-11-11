@@ -2,36 +2,46 @@
 
 ![Tecnologia só pra ficar top.](OSFi.gif "Tecnologia.")
 
-##
+🎓 Formação
 
-### 🎓 Cursando Técnico em Informática
+Técnico em Informática
+📍 Senac São Miguel Paulista
+🕐 Duração: 3 semestres (em andamento)
 
-#### - Local - Senac São Miguel Paulista 🌎
-#### - Duração  - 3 Semestres 🕐
-##
-### 🧾 Conhecimentos adquiridos : 
-* Montagem e manutenção de computadores
-* Redes e Infraestrutura
-* Montagem e configuração de servidor
-* Desenvolvimento Web
+💡 Conhecimentos
 
-##
+Montagem e manutenção de computadores
 
-### 👤 Sobre mim 
+Redes e infraestrutura
 
-#### Atualmente empregado como **Operador de Monitoramento** na empresa Allibus Transportes. ♟
-#### - Empregado desde 11/2022 🕐
-#### - Localizado em Vila Matilde - Zona Leste de São Paulo 🌎
+Montagem e configuração de servidores
 
-##
+Desenvolvimento web
 
-### 🕵️‍♀️ Hobby's 
-* Academia 🏋🏼‍♂️
-* Desenho 🖋
-* Ler 📖
-* Jogos 🎮
+Desktop
+
+Rotinas de Escritório
+📍 Unibes - Armênia
+🕐 Duração: 2 semestres (concluído)
+
+💡 Conhecimentos
+
+Rotinas administrativas
+
+Excel, Word, PowerPoint e S.O. Windows
+
+💼 Experiência Profissional
+
+Jovem aprendiz (Financeiro) - Esuites Congonhas by Atlantica
+📅 11/2021 – 10/2022
+📍 Campo belo – São Paulo/SP
+
+Operador de Monitoramento – Allibus Transportes
+📅 11/2022 – 10/2025
+📍 Vila Matilde – São Paulo/SP
 
 
-  
+📈 Objetivo Profissional
 
+Atuar na área de tecnologia da informação, aplicando meus conhecimentos em desenvolvimento, design e banco de dados.
 
